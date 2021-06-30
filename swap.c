@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 #include<cs50.h>
 int swap_max(int arr[], int l, int n){
     int max=arr[n];
@@ -19,3 +19,4 @@ int ssort(int arr[], int l){
     printf(" %i |",arr[i]);
     printf("\n");
     
+}
